@@ -137,7 +137,7 @@ Future improvements will include:
 Data Analyst |Transforming Raw Data into Insights| Excel & Power BI
 
 - 💼 **LinkedIn:** [https://www.linkedin.com/in/esther-odinihu-254719371]  
-- 📊 **GitHub:** [https://www.github.com/in/Nmesomachi8]  
+- 📊 **GitHub:** [github.com/Nmesomachi8]  
 
 
 
