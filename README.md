@@ -48,7 +48,7 @@ HR-Analytics-Project/
 ## 📊 Dashboard Preview  
 
 ### Dashboard 1 – *Workforce Overview & Attrition Summary*  
-*Dashboard1.png
+HR-Analytics-Dashboard-/Dashboard1.png
 
 ### Dashboard 2 – *Attrition Breakdown & Demographic Insights*  
 ![Dashboard Screenshot](images/Dashboard2.png)
