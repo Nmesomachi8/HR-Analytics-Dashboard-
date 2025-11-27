@@ -48,7 +48,7 @@ HR-Analytics-Project/
 ## 📊 Dashboard Preview  
 
 ### Dashboard 1 – *Workforce Overview & Attrition Summary*  
-HR-Analytics-Dashboard-/Dashboard1.png
+https://github.com/Nmesomachi8/HR-Analytics-Dashboard-/blob/bdad582aeaaa78c7f77e16c33b25972ba10c343f/Dashboard1.png
 
 ### Dashboard 2 – *Attrition Breakdown & Demographic Insights*  
 ![Dashboard Screenshot](images/Dashboard2.png)
