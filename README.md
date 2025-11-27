@@ -51,7 +51,7 @@ HR-Analytics-Project/
 https://github.com/Nmesomachi8/HR-Analytics-Dashboard-/blob/bdad582aeaaa78c7f77e16c33b25972ba10c343f/Dashboard1.png
 
 ### Dashboard 2 – *Attrition Breakdown & Demographic Insights*  
-![Dashboard Screenshot](images/Dashboard2.png)
+Dashboard2.png
 
 The dashboards include key HR metrics such as attrition rate, employee demographics, performance ratings, job satisfaction, and income distribution.  
 
